@@ -61,7 +61,7 @@ Esta aplicação foi desenvolvida para importar dados de produtos da base de dad
 4. Crie um arquivo .env com as variáveis de ambiente necessárias:
 
    ```bash
-   MONGODB_URI=mongodb://localhost:27017/openfood
+   MONGODB_URI=mongodb+srv://alexgomesclemente:0000@v4project.n25ev.mongodb.net/
    PORT=3000
    ```
 
