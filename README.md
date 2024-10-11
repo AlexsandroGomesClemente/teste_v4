@@ -96,7 +96,8 @@ npm run test
 
   - GET /products
 
-  - **Obter produto por código:**
+- **Obter produto por código:**
+
   - GET /products/:code
 
 - **Atualizar produto:**
@@ -104,7 +105,7 @@ npm run test
   - PUT /products/:code
 
 - **Deletar produto (soft delete):**
-  - DELETE /products/:code
+  - DELETE /products/:codegit
 
 ### CHALLANGE
 
